@@ -1,0 +1,1 @@
+This project involves creating an online bookstore application using Python, MySQL, and Streamlit. The application integrates a MySQL database for managing book inventory and user data, and uses Streamlit to provide a user-friendly web interface for browsing and purchasing books. Follow the setup instructions to deploy the bookstore application seamlessly.
